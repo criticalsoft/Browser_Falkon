@@ -1,0 +1,3 @@
+[submodule "APPLICATION/falkon"]
+	path = APPLICATION/falkon
+	url = https://github.com/criticalsoft/falkon.git

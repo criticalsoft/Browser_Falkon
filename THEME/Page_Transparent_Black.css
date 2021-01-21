@@ -1,0 +1,59 @@
+* {
+    color: #000000 !important;
+    
+    background-color: transparent !important;
+    
+    /* Reddit */
+    --pseudo-before-background: transparent !important;
+}
+/**:not(html, body, div, ul, a, a *, h1, h2, h3, h4, h5, h6, select, select *,
+button, button *, input, input *, output, output *, textarea, textarea *,
+img, img *) {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+}*/
+
+
+
+
+/* Falkon FIX */
+html, body {
+    color: #000000 !important;
+}
+
+div {
+    color: #000000 !important;
+}
+
+ul {
+    color: #000000 !important;
+}
+
+a, a *,
+h1, h2, h3, h4, h5, h6 {
+    color: #000000 !important;
+}
+
+
+
+
+select, select * {
+/*     border:1px #000000 solid; */
+    color: #000000 !important;
+}
+
+button, button * {
+/*     border:1px #0066FF solid; */
+    color: #0066FF !important;
+}
+
+input, input *,
+output, output * {
+    border:1px #0066FF solid;
+    color: #0066FF !important;
+}
+
+textarea, textarea * {
+    border:1px #000000 solid;
+    color: #000000 !important;
+}
+
